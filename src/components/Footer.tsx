@@ -1,15 +1,18 @@
-import React from 'react'
+import React from "react";
 
-import '../css/skeleton.css'
-import '../css/normalize.css'
-import '../css/components.css'
+import "../css/skeleton.css";
+import "../css/normalize.css";
+import "../css/components.css";
 
 function Footer(): JSX.Element {
-    return (
-        <div className="Footer container">
-            <p>Made with <span className="heart">❤️</span> by <a href={"https://twitter.com/heysagnik"}>Sagnik Sahoo</a></p>
-        </div>
-    )
+  return (
+    <div className="Footer container">
+      <p>
+        Made with <span className="heart">❤️</span> by{" "}
+        <a href={"https://twitter.com/eraf"}>Foodie Lovers</a>
+      </p>
+    </div>
+  );
 }
 
-export default Footer
+export default Footer;
