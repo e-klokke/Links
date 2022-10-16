@@ -8,40 +8,10 @@ import { ItemType } from "../ts";
 
 const items: ItemType[] = [
   {
-    title: "Website",
-    subtitle: "Look at my work!",
-    image: website,
-    link: "https://sagniksahoo.codes", //your personal website or portfolio  link
-  },
-  {
-    title: "GitHub",
-    subtitle: "@heysagnik | 🏡 to all my open-source projects",
-    image: github,
-    link: "https://github.com/heysagnik", //Github Profile link
-  },
-  {
-    title: "Instagram",
-    subtitle: "@heysagnik |  Shots of my life 🙂",
-    image: instagram,
-    link: "https://instagram.com/heysagnik", //instagram profile link
-  },
-  {
-    title: "Twitter",
-    subtitle: "@heysagnik | 😉",
-    image: twitter,
-    link: "https://twitter.com/heysagnik", // twitter profile link
-  },
-  {
-    title: "LinkedIn",
-    subtitle: "Know more about my profession 👨‍💼",
-    image: linkedin,
-    link: "https://www.linkedin.com/in/heysagnik/", // linkedin
-  },
-  {
     title: "YouTube",
-    subtitle: "CODER SAGNIK | Official channel of mine",
+    subtitle: "Eric Bell | Official Channel of Wine on Wednesdays",
     image: youtube,
-    link: "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg", //youtube channel link
+    link: "https://www.youtube.com/channel/UCP-2GwrCOc9jy0x320Pa2Jw", //youtube channel link
   },
 ];
 
