@@ -37,5 +37,9 @@
     "@types/node": "^18.7.14",
     "@types/react": "^18.0.18",
     "typescript": "^4.8.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/e-klokke/Links.git",
+  "author": "klokke <esinto8@protonmail.com>",
+  "license": "MIT"
 }
